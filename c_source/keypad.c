@@ -34,7 +34,7 @@
  * keypad.c -- Main
  *
  *
- * to build:  gcc -o q2w -lwiringPi q2w.c 
+ * to build:  gcc -o keypad -lwiringPi keypad.c
  * see http://switchpi.org for schematics.
  *
  */
