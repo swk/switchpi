@@ -18,6 +18,7 @@ UsedLibrary="/Applications/EAGLE-6.4.0/lbr/74xx-little-de.lbr"
 UsedLibrary="/Applications/EAGLE-6.4.0/lbr/74xx-little-us.lbr"
 UsedLibrary="/Applications/EAGLE-6.4.0/lbr/74xx-us.lbr"
 UsedLibrary="/Applications/EAGLE-6.4.0/lbr/751xx.lbr"
+UsedLibrary="/Applications/EAGLE-6.4.0/lbr/adafruit.lbr"
 UsedLibrary="/Applications/EAGLE-6.4.0/lbr/advanced-test-technologies.lbr"
 UsedLibrary="/Applications/EAGLE-6.4.0/lbr/agilent-technologies.lbr"
 UsedLibrary="/Applications/EAGLE-6.4.0/lbr/allegro.lbr"
@@ -343,7 +344,7 @@ UsedLibrary="/Applications/EAGLE-6.4.0/lbr/zilog.lbr"
 
 [Win_1]
 Type="Control Panel"
-Loc="481 142 1505 541"
+Loc="1959 540 2558 939"
 State=2
 Number=0
 
