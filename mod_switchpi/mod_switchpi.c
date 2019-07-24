@@ -1,6 +1,6 @@
 /* 
  * FreeSWITCH Modular Media Switching Software Library / Soft-Switch Application
- * Copyright (C) 2005/2006, Anthony Minessale II <anthmct@yahoo.com>
+ * Copyright (C) 2005-2019, Anthony Minessale II <anthmct@yahoo.com>
  *
  * Version: MPL 1.1
  *
@@ -22,7 +22,7 @@
  * the Initial Developer. All Rights Reserved.
  *
  * Contributor(s):
- * Ken Rice <krice@freeswitch.org>
+ * Ken Rice <krice@freeswitch.org> (C)2013-2018 
  *
  * mod_switchpi.c -- DTMF Keypad, and hook switch driver for mod_portaudio
  * NOTE: this only works on the Raspberry Pi with the SwitchPI addon module

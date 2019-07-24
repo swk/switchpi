@@ -2,7 +2,7 @@
  * keypad.c: quick keypad driver for i2c using wiringPi, MCP23017, and 
  * 4x3 matrix Keypad
  ***********************************************************************
- * Copyright (c) 2013 Ken Rice <krice@freeswitch.org>
+ * Copyright (c) 2013-2019 Ken Rice <krice@freeswitch.org>
  *
  * This code is based on and requires WiringPi the work of Gordon Henderson
  * for more info visit https://projects.drogon.net/raspberry-pi/wiringpi/
